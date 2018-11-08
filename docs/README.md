@@ -3,11 +3,15 @@
 > Create your own python zoo using this documentation. 
 
 ## Set Up
-```python
-print('really good python code.')
+```terminal
+mkdir my-zoo
+cd my-zoo
+touch zoo.py
 ```
+> open zoo.py in your preferred IDE
 
-## More Stuff
+## Initialize zoo
 ```python
-print('really good python code.')
+zoo = dict() # creates dictionary to hold zoo animals(key) and their counts(value)
+animals = dict() # holds animals(key) and their images(value)
 ```
