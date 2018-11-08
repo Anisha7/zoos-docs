@@ -21,6 +21,21 @@ if __name__ == '__main__':
 > download images for those 5 in the images folder
 
 # Animals
+
+## Animals dictionary
+```python
+    if __name__ == '__main__':
+        zoo = dict()
+        animals = dict() 
+        # add animals
+        animals['bear'] = 'images/bear.png'
+        animals['koala'] = 'images/koala.png'
+        animals['parrot'] = 'images/parrot.png'
+        animals['panda'] = 'images/panda.png'
+        animals['slug'] = 'images/slug.png'
+```
+
+## User Input
 > We will now take user input to add animals to the zoo and increment count accordingly
 ```python
 
