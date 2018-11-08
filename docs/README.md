@@ -1,8 +1,13 @@
-# Headline
+# Getting Started
 
-> An awesome project.
+> Create your own python zoo using this documentation. 
 
-## Awesome Python Highlighting
+## Set Up
+```python
+print('really good python code.')
+```
+
+## More Stuff
 ```python
 print('really good python code.')
 ```
